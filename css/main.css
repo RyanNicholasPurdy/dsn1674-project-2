@@ -1,0 +1,40 @@
+html{
+  box-sizing: border-box;
+}
+
+*, *::before, *::after{
+  box-sizing: inherit;
+}
+
+.medallion{
+  position: absolute;
+  width: 40%;
+  left: 40%;
+}
+
+.top-box{
+  width: 100%;
+  margin-top;
+  padding: 100px 0px 0px 0px;
+  background-color: #485d82;
+}
+
+.top-box-image{
+  position: relative;
+  width: 320px;
+  margin: 0 auto;
+}
+
+.medallion{
+  position: absolute;
+  width: 30%;
+  top: -6em;
+  right: 40%;
+}
+
+h3{
+  position: absolute;
+  text-align: center;
+  color: white;
+  top: -3em;
+}
