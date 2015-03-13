@@ -34,7 +34,7 @@ html{
   right: 15%;
   color: white;
   font-size: 3rem;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 3px 5px black;
 }
 
 .header-subtitle{
@@ -44,7 +44,7 @@ html{
   right: 19.5%;
   color: white;
   font-size: 1rem;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 3px 5px black;
 }
 
 nav a{
@@ -83,8 +83,31 @@ li{
 }
 
 .banner-text{
+  text-align: center;
   position: absolute;
-  top: 15;
-  right: 50%;
+  margin: -2em 0em 0em 0em;
   width: 100%;
+  font-family: '700italic', sans-serif;
+  font-size: 2rem;
+  color: white;
+  text-shadow: 2px 3px 5px black;
+}
+
+.white-text{
+  font-size: 1.5rem;
+  padding: .5em .5em .5em .5em;
+}
+
+.yellow-box{
+  position: relative;
+  background-color: #e4c22a;
+  padding: 1em 1em 1em 1em;
+  text-align: center;
+}
+
+.yellow-images{
+  width: 50%;
+  display: inline;
+  float: left; /*text will wrap around the right side of the image. If you float
+  right the text wraps around the left*/
 }
