@@ -112,3 +112,35 @@ li{
   width: 50%;
   float: right;
 }
+
+.blackheader{
+  text-align: center;
+  color: white;
+  background-color: #222222;
+  padding: 1rem;
+  font-style: italic;
+}
+.goat{
+  width: 50%;
+  float: right;
+}
+.goatsymbol{
+  width: 50%;
+  float: right;
+}
+
+.redheader{
+  text-align: center;
+  font-style: italic;
+  color: white;
+  background-color: #bc0017;
+  padding: 1rem;
+}
+.rooster{
+  width: 50%;
+  float: right;
+}
+.roostersymbol{
+  width: 50%;
+  float: right;
+}
