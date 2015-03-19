@@ -144,3 +144,30 @@ li{
   width: 50%;
   float: right;
 }
+
+.ox{
+  width: 50%;
+  float: right;
+}
+.oxsymbol{
+  width: 50%;
+  float: right;
+}
+.figcaption{
+  clear: both;
+}
+footer{
+  background-color: #222222;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+  font-size: 0.75rem;
+  font-family: 'Noto Sans', sans-serif; font-weight: 400;
+}
+
+a{
+  color: white;
+}
+a:hover{
+  color: red;
+}
