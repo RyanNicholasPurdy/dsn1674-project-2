@@ -93,21 +93,22 @@ li{
   text-shadow: 2px 3px 5px black;
 }
 
-.white-text{
-  font-size: 1.5rem;
+.whitetext{
+  font-size: 1.3rem;
   padding: .5em .5em .5em .5em;
 }
 
-.yellow-box{
-  position: relative;
-  background-color: #e4c22a;
-  padding: 1em 1em 1em 1em;
+.yellowheader{
   text-align: center;
+  background-color: #e4c22a;
+  padding: 1rem;
+  font-style: italic;
 }
-
-.yellow-images{
+.dragon{
   width: 50%;
-  display: inline;
-  float: left; /*text will wrap around the right side of the image. If you float
-  right the text wraps around the left*/
+  float: right;
+}
+.dragonsymbol{
+  width: 50%;
+  float: right;
 }
